@@ -1,5 +1,7 @@
 img{
-  width:200px;
+  width:300px;
+  height:200px;
+  border:4px solid black;
 }
 body{
 background-color:#FFF9C4;
@@ -10,7 +12,6 @@ h1{
   
   background-color:#B3E5FC;
 }
-
 .sub{
   background-color:#C5E1A5;
   width:50%;
@@ -21,3 +22,27 @@ footer{
   line-height:3;
   font-weight:bold;
 }
+th{
+  
+  border-color:#FFEB3B;
+  border-style:groove;
+  border-width:6px;
+
+  background-image: url(https://i.pinimg.com/564x/68/b8/8a/68b88a6c909d94dcbd5d1e9ee82f9098.jpg);
+
+}
+table{
+ border-collapse:collapse; 
+  width:70%;
+  height:250px;
+  margin:0 auto;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK0AAABzCAMAAADdRXIuAAAAD1BMVEX/7PL/6fD/3+r/2eX/5O2c+nlrAAAAcUlEQVR4nO3OwQ0AIAgEMFD3n9kRji9JO0Grso5edqKbDbK2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra2tra267cf/Tub4nUuKvYAAAAASUVORK5CYII=");
+}
+  td{
+    border-collapse:collapse;
+    border-color:#FFEB3B;
+    border-style:solid;
+    border-width:4px;
+
+  }
+
